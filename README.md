@@ -296,3 +296,7 @@ we see that our model classifies this series as
 - Thriler (0.328)
 
 which in my opinion classifies the GoT prety accurately! 
+
+# 4. Conclusion
+
+We now have a working model that was trainied on a relatively small training dataset (~7000 images).
