@@ -1,7 +1,7 @@
 A CNN architecture for identifying a movie's genre from posters
 ======
 
-***This is a PyTorch adaptation of the code that can be found in [here](https://www.analyticsvidhya.com/blog/2019/04/build-first-multi-label-image-classification-model-python/)***
+***This is a PyTorch adaptation of the code that was first described and analyzed [here](https://www.analyticsvidhya.com/blog/2019/04/build-first-multi-label-image-classification-model-python/)***
 
 # 1. Introduction
 
